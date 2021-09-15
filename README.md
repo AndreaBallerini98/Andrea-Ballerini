@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @AndreaBallerini98
+- 👋 Hi, I’m Andrea Ballerini !
 - 🌱 I’m currently learning JavaScript and improving all my web-development skills
 - 📫 Send me an e-mail! andreaballerini37@gmail.com
+- follow me on social! @andrea_littledancers
 
 <!---
 AndreaBallerini98/AndreaBallerini98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
